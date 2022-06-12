@@ -1,0 +1,3 @@
+echo "welcome to calculator"
+read -p "enter number" num1
+read -p "enter number" num2 
